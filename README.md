@@ -6,4 +6,4 @@
 - 📫 How to reach me: ruun.muhamed@hotmail.co.uk
 - 👩🏽‍💻 LinkedIn profile: https://www.linkedin.com/in/ruun-muhamed-8a7136b7/
   
-- ⚡ Fun fact: I can read and write in Korean ☺️ I love to learn about different cultures and enjoy learning new languages. I aim to be conversational in Danish, Korean and Arabic in the near future. So far I can hold short converstaions in Danish and read both Korean and Arabic text.
+- ⚡ Fun fact: I can read and write in Korean. I love to learn about different cultures and enjoy learning languages. I aim to be conversational in Danish, Korean and Arabic in the near future. So far I can hold basic converstaions in Danish and read both Korean and Arabic text.
