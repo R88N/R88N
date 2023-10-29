@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 - 🔭 I’m currently working on a few projects so that i can strengthen my Python Programming skills. I have uploaded some projects to show case my skills.
 - 🌱 I’m currently learning Data Science, with an emphasis on Machine Learning techniques such as NLP
